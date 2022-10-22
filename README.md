@@ -1,5 +1,3 @@
-### Hello there!
-
 [![Github](https://img.shields.io/github/followers/AndreiRegiani?label=Follow&style=social)](https://github.com/AndreiRegiani) [<img src="https://www.codewars.com/users/AndreiRegiani/badges/micro">](https://www.codewars.com/users/AndreiRegiani)
 
 ### Tooling
